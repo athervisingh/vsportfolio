@@ -1,0 +1,51 @@
+/* AboutPage.css */
+.container {
+    display: flex;
+    min-height: 100vh;
+    background-color: #f4f4f4;
+    padding: 16px;
+    color: #333;
+  }
+  
+  .editor, .preview {
+    flex: 1;
+    margin: 8px;
+    padding: 16px;
+    border-radius: 8px;
+    background-color: white;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    overflow-y: auto;
+  }
+  
+  .title {
+    font-size: 12px;
+    font-weight: bold;
+    color: #1a73e8;
+    margin-bottom: 16px;
+  }
+  
+  .subtitle {
+    font-size: 20px;
+    font-weight: bold;
+    color: #2b7a78;
+    margin-bottom: 12px;
+  }
+  
+  .text p, .text li {
+    margin: 4px 0;
+  }
+  
+  .text ul {
+    list-style: disc;
+    margin-left: 20px;
+  }
+  
+  .code-box {
+    background-color: #282c34;
+    color: #abb2bf;
+    font-family: monospace;
+    padding: 12px;
+    border-radius: 4px;
+    overflow-x: auto;
+  }
+  

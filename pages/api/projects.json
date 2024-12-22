@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "name": "Prithview",
+    "image": "/project1.jpeg",
+    "description": " Developed a web application to perform semantic segmentation of satellite images",
+    "tags": [ "react",  "tailwind", "redux"],
+    "source_code": "https://github.com/athervisingh/sih-semantic-segmentation",
+    "demo": "https://sem-seg.vercel.app/"
+  },
+  {
+    "id": 2,
+    "name": "WeatherWise",
+    "image": "/project2.png",
+    "description": "Created a responsive weather forecast application",
+    "tags": ["react", "tailwind"],
+    "source_code": "https://github.com/athervisingh/weather"
+   
+  },
+  {
+    "id": 3,
+    "name": "AthCare",
+    "image": "/project3.png",
+    "description": " Developed a donation platform, ensuring seamless user experience",
+    "tags": ["next", "node", "mongodb","mongoose", "razorpay", "express"],
+    "source_code": "https://github.com/athervisingh/AthCare"
+
+  },
+  {
+    "id": 4,
+    "name": "VSCode Portfolio",
+    "image": "/project5.png",
+    "description": "A themeable and developer-centric portfolio based on the VSCode",
+    "tags": ["next", "css-modules"],
+    "source_code": "https://github.com/itsnitinr/vscode-portfolio",
+    "demo": "http://vscode-portfolio.vercel.app/"
+  }
+]
