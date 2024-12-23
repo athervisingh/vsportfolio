@@ -32,7 +32,7 @@
     "image": "/project5.png",
     "description": "A themeable and developer-centric portfolio based on the VSCode",
     "tags": ["next", "css-modules"],
-    "source_code": "https://github.com/itsnitinr/vscode-portfolio",
-    "demo": "http://vscode-portfolio.vercel.app/"
+    "source_code": "https://github.com/athervisingh/vsportfolio",
+    "demo": "https://vsportfolio-fawn.vercel.app/"
   }
 ]
