@@ -26,11 +26,11 @@ const contactItems = [
     link: 'AtherviSingh',
     href: 'https://www.linkedin.com/in/athervi-singh/',
   },
-  {
-    social: 'instagram',
-    link: 'iamnitinr',
-    href: 'https://www.instagram.com/iamnitinr',
-  },
+  // {
+  //   social: 'instagram',
+  //   link: 'iamnitinr',
+  //   href: 'https://www.instagram.com/iamnitinr',
+  // },
   // {
   //   social: 'polywork',
   //   link: 'nitinranganath',
